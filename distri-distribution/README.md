@@ -1,7 +1,8 @@
 distri-distribution package
 ===========================
 
-summary of the package
+Binomial Distribution
+Gaussian Distribution
 
 Files
 =====
